@@ -1,0 +1,17 @@
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\obj\Debug\netcoreapp3.1\jeux_du_pendu.csproj.AssemblyReference.cache
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\obj\Debug\netcoreapp3.1\jeux_du_pendu.Form1.resources
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\obj\Debug\netcoreapp3.1\jeux_du_pendu.Form2.resources
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\obj\Debug\netcoreapp3.1\jeux_du_pendu.csproj.GenerateResource.cache
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\obj\Debug\netcoreapp3.1\jeux_du_pendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\obj\Debug\netcoreapp3.1\jeux_du_pendu.AssemblyInfoInputs.cache
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\obj\Debug\netcoreapp3.1\jeux_du_pendu.AssemblyInfo.cs
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\obj\Debug\netcoreapp3.1\jeux_du_pendu.csproj.CoreCompileInputs.cache
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\bin\Debug\netcoreapp3.1\jeux_du_pendu.exe
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\bin\Debug\netcoreapp3.1\jeux_du_pendu.deps.json
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\bin\Debug\netcoreapp3.1\jeux_du_pendu.runtimeconfig.json
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\bin\Debug\netcoreapp3.1\jeux_du_pendu.runtimeconfig.dev.json
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\bin\Debug\netcoreapp3.1\jeux_du_pendu.dll
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\bin\Debug\netcoreapp3.1\jeux_du_pendu.pdb
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\obj\Debug\netcoreapp3.1\jeux_du_pendu.dll
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\obj\Debug\netcoreapp3.1\jeux_du_pendu.pdb
+C:\Users\theo8\Documents\Visual Studio 2019\jeux_du_pendu\obj\Debug\netcoreapp3.1\jeux_du_pendu.genruntimeconfig.cache
